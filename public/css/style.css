@@ -1,0 +1,11 @@
+.textWhite{
+    color: white;
+}
+
+html body tbody .greenBackground{
+    background-color: rgb(67,167,0) !important;
+}
+
+/*.uk-alert-primary{
+    width: 50%;
+}*/
